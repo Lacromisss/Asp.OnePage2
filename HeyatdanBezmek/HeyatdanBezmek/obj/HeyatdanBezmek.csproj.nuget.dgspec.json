@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Acer\\source\\repos\\HeyatdanBezmek\\HeyatdanBezmek\\HeyatdanBezmek.csproj": {}
+    "C:\\Users\\Acer\\Desktop\\New folder\\HeyatdanBezmek\\HeyatdanBezmek\\HeyatdanBezmek.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Acer\\source\\repos\\HeyatdanBezmek\\HeyatdanBezmek\\HeyatdanBezmek.csproj": {
+    "C:\\Users\\Acer\\Desktop\\New folder\\HeyatdanBezmek\\HeyatdanBezmek\\HeyatdanBezmek.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Acer\\source\\repos\\HeyatdanBezmek\\HeyatdanBezmek\\HeyatdanBezmek.csproj",
+        "projectUniqueName": "C:\\Users\\Acer\\Desktop\\New folder\\HeyatdanBezmek\\HeyatdanBezmek\\HeyatdanBezmek.csproj",
         "projectName": "HeyatdanBezmek",
-        "projectPath": "C:\\Users\\Acer\\source\\repos\\HeyatdanBezmek\\HeyatdanBezmek\\HeyatdanBezmek.csproj",
+        "projectPath": "C:\\Users\\Acer\\Desktop\\New folder\\HeyatdanBezmek\\HeyatdanBezmek\\HeyatdanBezmek.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Acer\\source\\repos\\HeyatdanBezmek\\HeyatdanBezmek\\obj\\",
+        "outputPath": "C:\\Users\\Acer\\Desktop\\New folder\\HeyatdanBezmek\\HeyatdanBezmek\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
