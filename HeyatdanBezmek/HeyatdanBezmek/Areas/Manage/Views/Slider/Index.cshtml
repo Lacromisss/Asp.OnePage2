@@ -1,0 +1,36 @@
+﻿@model List<Slider>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">Name</th>
+      <th scope="col">degree</th>
+      <th scope="col">Description</th>
+      <th scope="col">Title</th>
+            <th scope="col">Update</th>
+      <th scope="col">Delete</th>
+
+
+    </tr>
+  </thead>
+  <tbody>
+<tr>
+    @foreach (var item in Model)
+   {
+       <td>@item.Name</td>
+    <td>@item.Degre</td>
+    <td>@item.Description</td>
+    <td>@item.Title</td>
+    <td><img src="~/Musi/images/@item.ImgUrl" alt="" width="100px" height="100px">
+</td>
+    <td> <a asp-action="Update" asp-area="Manage" asp-route-Id="@item.Id" asp-controller="Slider">Update</a></td>
+        <td> <a asp-action="Delete" asp-area="Manage" asp-route-Id="@item.Id" asp-controller="Slider">Delete</a></td>
+
+   }
+    
+    </tbody>
+</table>
+</tr>
